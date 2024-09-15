@@ -10,7 +10,12 @@ You can also use the scraped words dataset as a lexicon for your OCR model.
 This folder contains the result of one full operation of all the scripts in the repository (Except for the generateor.py). You have access to the dataset of words in lowercase, uppercase, and capitalized forms, along with the corresponding reports in the `hywiktionary` folder. 
 
 ## Note on Images:
-If you need the images, you will have to run the `generator` script. Due to the large size of the images dataset, the images are not included in the repository. If you need direct access to the images, feel free to contact me.
+If you need the images, you will have to run the `generator` script. Due to the large size of the images dataset, the images are not included in the repository. If you need direct access to the images, feel free to contact me. 
+Samples of what you'll get by running the script: 
+![Տեխնոլոգիա_Emin_Script_14_0_0_0_rot0](https://github.com/user-attachments/assets/86fd538c-fbd9-47e8-8881-ca472e75ec8c)
+![Տեխնոլոգիա_FreeSans_20_255_0_0_rot-5](https://github.com/user-attachments/assets/0d1c8e8d-10db-402e-8865-b19293e3e998)
+![Տեխնոլոգիա_poqrik_24_0_255_0_rot-5](https://github.com/user-attachments/assets/18ea247f-0df1-4d3c-931b-8e9020b98bc3)
+
 
 ### Instructions:
 1. Make sure to install the dependencies by running:
